@@ -1,13 +1,13 @@
-PIZZA SALES PROJECT WITH SQL & POWERBI
+ # PIZZA SALES PROJECT WITH SQL & POWERBI
 
-🍕PIZZA SALES PROJECT
+# 🍕PIZZA SALES PROJECT
 
-OVERVIEW
+# OVERVIEW
 
 The Pizza Sales Report project is designed to provide insights into the sales performance of a pizza restaurant.  SQL for data extraction and data management and Power BI for data visualization, 
 this project aims to deliver comprehensive analytics on sales trends, customer preferences and to improve sales .
 
-📁 Dataset Overview
+# 📁 Dataset Overview
 
 The Dataset includes information on, 
 
@@ -39,19 +39,19 @@ and visualized key insights using charts.
 
 5. Average Pizzas Per Order:
 
-6.Daily Trend for Total Orders:
+ 6. Daily Trend for Total Orders:
 
-7.Monthly Trend for Total Orders:
+ 7. Monthly Trend for Total Orders:
 
-8.Percentage of Sales by Pizza Category:
+ 8. Percentage of Sales by Pizza Category:
 
-9.Total Pizzas Sold by Pizza Category:
+ 9. Total Pizzas Sold by Pizza Category:
 
-10.Top 5 Best Sellers by Revenue, Total Quantity and Total Orders
+ 10. Top 5 Best Sellers by Revenue, Total Quantity and Total Orders
 
 11. Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders
 
-###STEPS INVOLVED
+# STEPS INVOLVED
 
 - Step 1 : Data Acquisition
 The project begins with the acquisition of raw sales data.
@@ -96,10 +96,10 @@ Calculated required columns using Power Query Calculated KPI requirements using 
   
 -> 🍩 Donut Chart:Generate a pie chart that represents the percentage of sales attributed to different pizza sizes. 
            This chart will help us understand customer preferences for pizza sizes and their impact on sales.
-
-  SCREENSHOT : 
-
+           
 -> 📉 Funnel Chart: Display the total pizzas sold by pizza category.
+
+ SCREENSHOT : 
 
  # PAGE 2 : TOP 5 AND BOTTOM 5 PERFORMERS
 
