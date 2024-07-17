@@ -94,7 +94,7 @@ Calculated required columns using Power Query Calculated KPI requirements using 
 -> 🍩 Donut Chart: Created a Donut chart that shows the distribution of sales across different pizza categories.
          This chart will provide insights into the popularity of various pizza categories and their contribution to overall sales.
   
--> 🍩 Donut Chart:Generate a pie chart that represents the percentage of sales attributed to different pizza sizes. 
+-> 🍩 Donut Chart:Generate a Donut chart that represents the percentage of sales attributed to different pizza sizes. 
            This chart will help us understand customer preferences for pizza sizes and their impact on sales.
            
 -> 📉 Funnel Chart: Display the total pizzas sold by pizza category.
